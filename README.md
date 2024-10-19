@@ -1,5 +1,5 @@
 # Nord AI
-This project is a SaaS for using OpenAI and its API layer. It is baked in with Authentication, Session Management, Token Tracking, as well as Billing (currently disabled). Both Frontend and Backend is in the same backend folder
+This project is a SaaS for using OpenAI and its API layer. It is baked in with Authentication, Session Management, Token Tracking, as well as Billing (currently disabled).
 
 ## Introduction
 
